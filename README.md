@@ -1,1 +1,1 @@
-# linux_study
+# linux操作的学习
