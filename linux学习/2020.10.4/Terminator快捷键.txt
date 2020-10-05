@@ -1,0 +1,8 @@
+Alt+Up                          //移动到上面的终端
+Alt+Down                        //移动到下面的终端
+Alt+Left                        //移动到左边的终端
+Alt+Right                       //移动到右边的终端
+Ctrl+Shift+O                    //水平分割终端
+Ctrl+Shift+E                    //垂直分割终端
+
+Ctrl+Shift+W                    //关闭当前终端
